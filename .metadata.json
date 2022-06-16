@@ -1,0 +1,26 @@
+[
+  {
+    "package": "fastadi",
+    "oncran": true
+  },
+  {
+    "package": "fastRG",
+    "oncran": true
+  },
+  {
+    "package": "invertiforms",
+    "oncran": true
+  },
+  {
+    "package": "LRMF3",
+    "oncran": true
+  },
+  {
+    "package": "sparseLRMatrix",
+    "oncran": true
+  },
+  {
+    "package": "vsp",
+    "oncran": true
+  }
+]
