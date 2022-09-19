@@ -18,6 +18,11 @@
 	url = https://github.com/rohelab/invertiforms
 	shallow = true
 	registered = true
+[submodule "LRMF3"]
+	path = LRMF3
+	url = https://github.com/rohelab/lrmf3
+	shallow = true
+	registered = true
 [submodule "sparseLRMatrix"]
 	path = sparseLRMatrix
 	url = https://github.com/rohelab/sparselrmatrix

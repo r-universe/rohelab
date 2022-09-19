@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "LRMF3",
+    "oncran": true
+  },
+  {
     "package": "sparseLRMatrix",
     "oncran": true
   },
