@@ -28,8 +28,3 @@
 	url = https://github.com/rohelab/sparselrmatrix
 	shallow = true
 	registered = true
-[submodule "vsp"]
-	path = vsp
-	url = https://github.com/rohelab/vsp
-	shallow = true
-	registered = true
