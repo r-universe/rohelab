@@ -18,5 +18,9 @@
   {
     "package": "sparseLRMatrix",
     "oncran": true
+  },
+  {
+    "package": "vsp",
+    "oncran": true
   }
 ]
