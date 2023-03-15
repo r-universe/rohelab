@@ -3,6 +3,21 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "fastadi"]
+	path = fastadi
+	url = https://github.com/rohelab/fastadi
+	shallow = true
+	registered = true
+[submodule "fastRG"]
+	path = fastRG
+	url = https://github.com/rohelab/fastrg
+	shallow = true
+	registered = true
+[submodule "invertiforms"]
+	path = invertiforms
+	url = https://github.com/rohelab/invertiforms
+	shallow = true
+	registered = true
 [submodule "LRMF3"]
 	path = LRMF3
 	url = https://github.com/rohelab/lrmf3
@@ -11,21 +26,6 @@
 [submodule "sparseLRMatrix"]
 	path = sparseLRMatrix
 	url = https://github.com/rohelab/sparselrmatrix
-	shallow = true
-	registered = true
-[submodule "invertiforms"]
-	path = invertiforms
-	url = https://github.com/rohelab/invertiforms
-	shallow = true
-	registered = true
-[submodule "fastRG"]
-	path = fastRG
-	url = https://github.com/rohelab/fastrg
-	shallow = true
-	registered = true
-[submodule "fastadi"]
-	path = fastadi
-	url = https://github.com/rohelab/fastadi
 	shallow = true
 	registered = true
 [submodule "vsp"]
