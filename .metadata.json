@@ -1,10 +1,10 @@
 [
   {
-    "package": "fastadi",
+    "package": "LRMF3",
     "oncran": true
   },
   {
-    "package": "fastRG",
+    "package": "sparseLRMatrix",
     "oncran": true
   },
   {
@@ -12,11 +12,11 @@
     "oncran": true
   },
   {
-    "package": "LRMF3",
+    "package": "fastRG",
     "oncran": true
   },
   {
-    "package": "sparseLRMatrix",
+    "package": "fastadi",
     "oncran": true
   },
   {
