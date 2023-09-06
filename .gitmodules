@@ -11,6 +11,9 @@
 [submodule "fastadi"]
 	path = fastadi
 	url = https://github.com/rohelab/fastadi
+[submodule "gdim"]
+	path = gdim
+	url = https://github.com/rohelab/gdim
 [submodule "invertiforms"]
 	path = invertiforms
 	url = https://github.com/rohelab/invertiforms
